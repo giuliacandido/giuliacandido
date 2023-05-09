@@ -6,9 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 NanaTech Project: [https://giuliacandido.github.io/nanaTech-project/](https://giuliacandido.github.io/nanaTech-project/)
+- 👨‍💻 Laconic Project: [https://giuliacandido.github.io/Laconic-project/](https://giuliacandido.github.io/Laconic-project/)
 
 - 👨‍💻 Assedten Project: [https://giuliacandido.github.io/Assedten-project/](https://giuliacandido.github.io/Assedten-project/)
+
+- 👨‍💻 NanaTech Project: [https://giuliacandido.github.io/nanaTech-project/](https://giuliacandido.github.io/nanaTech-project/)
 
 - 🌱 I’m currently learning: **React Native, TypeScript**
 
